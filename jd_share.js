@@ -1,8 +1,4 @@
 /* 
-甘露殿-https://t.me/jdredrain
-
-自动车监控脚本-分享有礼
-https://raw.githubusercontent.com/msechen/jdrain/main/jd_share.js
 
 环境变量
 ownCookieNum 需要助力数量，默认4个
